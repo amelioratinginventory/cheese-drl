@@ -4,7 +4,7 @@ This repository contains the code, problem instances, and detailed results accom
 
 > Pahr, A., Krumm, P., Kolemesina, A., and Grunow, M. *Deep Reinforcement Learning for Aging Cheese Inventory Management Under Correlated Prices.* Working Paper submitted to Elsevier.
 
-It provides everything needed to reproduce the computational results reported in the paper, in line with the EJOR policy on computational experiments: the data sources and problem instances, the individual results for each instance, and the code used to generate them.
+It provides everything needed to reproduce the computational results reported in the paper: the data sources and problem instances, the individual results for each instance, and the code used to generate them.
 
 ## Repository structure
 
