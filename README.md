@@ -45,8 +45,7 @@ The analytical result is verified numerically over a large parameter grid:
 python numerical_analysis_proposition1.py --full
 ```
 
-This evaluates the value of issuance flexibility across [1,455] parameter settings and nine mean-reversion levels and reports whether the monotonicity of Proposition 1 holds in every setting. [State the expected runtime and any resolution flags.]
-
+This evaluates the value of issuance flexibility across 1,455 parameter settings and nine mean-reversion levels and reports whether the monotonicity of Proposition 1 holds in every setting.
 ### Empirical validation of the price model
 
 Run `AR(1)_cheese_analysis.ipynb` to reproduce the validation of the AR(1) purchase-price model on the milk-price data, including the coefficient significance, the reported R^2 values, and the stationarity tests.
